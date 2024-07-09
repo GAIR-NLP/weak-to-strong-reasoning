@@ -1,0 +1,315 @@
+{
+  "gsm8k_1": {
+    "file_name": "data/llama_factory/gsm8k/gsm8k_train_1.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_2": {
+    "file_name": "data/llama_factory/gsm8k/gsm8k_train_2.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_llama2_7b_full_weak": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_llama2_7b_full_weak.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_llama2_7b_iter1_weak": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_llama2_7b_iter1_weak.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_llama2_7b_iter1_icl": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_llama2_7b_iter1_icl.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_llama2_7b_iter1_hybrid": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_llama2_7b_iter1_hybrid.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_llama2_7b_iter2_weak": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_llama2_7b_iter2_weak.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_llama2_7b_iter2_icl": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_llama2_7b_iter2_icl.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_llama2_7b_iter2_hybrid": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_llama2_7b_iter2_hybrid.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_llama2_7b_iter2_hybrid_paired": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_llama2_7b_iter2_hybrid_paired.json",
+    "ranking": true,
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "gsm8k_gemma_2b_full_weak": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_gemma_2b_full_weak.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_gemma_2b_iter1_weak": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_gemma_2b_iter1_weak.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_gemma_2b_iter1_icl": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_gemma_2b_iter1_icl.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_gemma_2b_iter1_hybrid": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_gemma_2b_iter1_hybrid.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_gemma_2b_iter2_weak": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_gemma_2b_iter2_weak.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_gemma_2b_iter2_icl": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_gemma_2b_iter2_icl.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_gemma_2b_iter2_hybrid": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_gemma_2b_iter2_hybrid.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_gemma_2b_iter2_hybrid_paired": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_gemma_2b_iter2_hybrid_paired.json",
+    "ranking": true,
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "gsm8k_mistral_7b_full_weak": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_mistral_7b_full_weak.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_mistral_7b_iter1_weak": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_mistral_7b_iter1_weak.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_mistral_7b_iter1_icl": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_mistral_7b_iter1_icl.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_mistral_7b_iter1_hybrid": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_mistral_7b_iter1_hybrid.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_mistral_7b_iter2_weak": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_mistral_7b_iter2_weak.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_mistral_7b_iter2_icl": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_mistral_7b_iter2_icl.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_mistral_7b_iter2_hybrid": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_mistral_7b_iter2_hybrid.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "gsm8k_mistral_7b_iter2_hybrid_paired": {
+    "file_name": "data/llama_factory/gsm8k/train_gsm8k_mistral_7b_iter2_hybrid_paired.json",
+    "ranking": true,
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "math_1": {
+    "file_name": "data/llama_factory/math/math_train_1.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "math_2": {
+    "file_name": "data/llama_factory/math/math_train_2.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "math_llama2_7b_full_weak": {
+    "file_name": "data/llama_factory/math/train_math_llama2_7b_full_weak.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "math_llama2_7b_iter1_weak": {
+    "file_name": "data/llama_factory/math/train_math_llama2_7b_iter1_weak.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "math_llama2_7b_iter1_icl": {
+    "file_name": "data/llama_factory/math/train_math_llama2_7b_iter1_icl.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "math_llama2_7b_iter1_hybrid": {
+    "file_name": "data/llama_factory/math/train_math_llama2_7b_iter1_hybrid.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "math_llama2_7b_iter1_hybrid_paired": {
+    "file_name": "data/llama_factory/gsm8k/train_math_llama2_7b_iter1_hybrid_paired.json",
+    "ranking": true,
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "math_gemma_2b_full_weak": {
+    "file_name": "data/llama_factory/math/train_math_gemma_2b_full_weak.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "math_gemma_2b_iter1_weak": {
+    "file_name": "data/llama_factory/math/train_math_gemma_2b_iter1_weak.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "math_gemma_2b_iter1_icl": {
+    "file_name": "data/llama_factory/math/train_math_gemma_2b_iter1_icl.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "math_gemma_2b_iter1_hybrid": {
+    "file_name": "data/llama_factory/math/train_math_gemma_2b_iter1_hybrid.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "math_gemma_2b_iter1_hybrid_paired": {
+    "file_name": "data/llama_factory/gsm8k/train_math_gemma_2b_iter1_hybrid_paired.json",
+    "ranking": true,
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "math_mistral_7b_full_weak": {
+    "file_name": "data/llama_factory/math/train_math_mistral_7b_full_weak.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "math_mistral_7b_iter1_weak": {
+    "file_name": "data/llama_factory/math/train_math_mistral_7b_iter1_weak.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "math_mistral_7b_iter1_icl": {
+    "file_name": "data/llama_factory/math/train_math_mistral_7b_iter1_icl.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "math_mistral_7b_iter1_hybrid": {
+    "file_name": "data/llama_factory/math/train_math_mistral_7b_iter1_hybrid.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "math_mistral_7b_iter1_hybrid_paired": {
+    "file_name": "data/llama_factory/gsm8k/train_math_mistral_7b_iter1_hybrid_paired.json",
+    "ranking": true,
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+}
