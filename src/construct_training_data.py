@@ -183,8 +183,8 @@ def construct_paired_data_gsm8k(weak_filename, weak_llamafactory_filename, major
 
 
 def construct_paired_data_math(weak_filename, weak_llamafactory_filename, majority_voting_filename, output_filename, confidence=0.8):
-    weak_data = [json.loads(line) for line in open(weak_filename)]
-    weak_llamafactory_data = json.load(open(weak_llamafactory_filename))
+    weak_data = [json.loads(line) for line in open(weak_filename)]  # results.jsonl
+    weak_llamafactory_data = json.load(open(weak_llamafactory_filename))  # *_full_weak.json
     majority_voting_data = [json.loads(line) for line in open(majority_voting_filename)]
     assert len(weak_data) == len(weak_llamafactory_data) == len(majority_voting_data)
 
