@@ -1,6 +1,6 @@
 # Weak-to-Strong Reasoning
 
-This is the official repository for the paper [Weak-to-Strong Reasoning]().
+This is the official repository for the paper [Weak-to-Strong Reasoning](https://arxiv.org/abs/2407.13647).
 
 ## 🚀Introduction
 
@@ -75,7 +75,7 @@ To generate the actual training data (as provided in `data/llama_factory`), use 
 
 ### Training Process
 
-We used LLaMA-Factory for all model training:
+We employ LLaMA-Factory for all model training:
 - v0.5.0 for supervised fine-tuning and DPO
 - v0.6.2 for ORPO support
 
@@ -84,4 +84,13 @@ All training data and `dataset_info.json` are provided in `data/llama_factory`. 
 ## 🥳Citation
 If you find our work useful, please cite our paper:
 ```bibtex
+@misc{yang2024weaktostrongreasoning,
+      title={Weak-to-Strong Reasoning}, 
+      author={Yuqing Yang and Yan Ma and Pengfei Liu},
+      year={2024},
+      eprint={2407.13647},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.13647}, 
+}
 ```
