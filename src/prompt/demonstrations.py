@@ -207,6 +207,249 @@ Answer: The direction vectors of the lines are $\begin{pmatrix} 4 \\ -6 \end{pma
 
 """
 
+
+olympic_llama3_8b_instruct_icl_examples = r"""You are participating in an international Biology competition and need to solve the following question.
+This is a multiple choice question (more than one correct answer).
+
+Question: Frequencies of the human $\mathrm{ABO}$ blood group alleles in a population are $\mathrm{p}\left(I^{A}\right)=40 \%$, $\mathrm{p}\left(I^{B}\right)=40 \%$ and $\mathrm{p}(i)=20 \%$. If the population is in Hardy-Weinberg equilibrium
+
+A: In this population, the number of persons with the blood groups A and B should be equal.
+B: In this population, the number of persons with the blood groups $A$ and $A B$ should be equal.
+C: In this population the frequency of persons with anti-B antibodies is $64 \%$.
+D: Locus $\mathrm{ABO}$ is localized on an autosomal chromosome because the blood group frequencies are the same for men and women.
+
+You can solve it step by step.
+Please end your response with: "The final answer is $\boxed{ANSWER}$", where ANSWER should be two or more of the options: [A, B, C, D].
+
+Answer: Let's break down the problem step by step.
+
+In this type of enzyme catalyzed reaction, the enzyme has two binding sites: one for the substrate (X) and another for the substance Y. When Y binds to the enzyme, it can still bind to the substrate, but the enzyme cannot convert the substrate to the product. This means that the enzyme is inhibited by the binding of Y.
+
+From this, we can deduce the following:
+
+* The affinity of the enzyme for the substrate will not change (i is incorrect). The enzyme can still bind to the substrate, but it cannot convert it to the product.
+* The Vmax of the reaction will decrease (ii is correct). This is because the binding of Y inhibits the enzyme, reducing its ability to convert the substrate to the product.
+* Y will not alter the conformation of X (iii is incorrect). The conformation of the substrate is not affected by the binding of Y.
+* The conformation of the catalytic site will be altered by the binding of Y (iv is correct). The binding of Y to the enzyme changes its conformation, making it unable to convert the substrate to the product.
+* The effect of Y cannot be overcome by increasing the concentration of X (v is incorrect). Increasing the concentration of X will not overcome the inhibition caused by the binding of Y.
+
+Therefore, the correct options are ii, iv, and v. The final answer is $\boxed{B}$
+
+
+You are participating in an international Biology competition and need to solve the following question.
+This is a multiple choice question (more than one correct answer).
+
+Question: Frequencies of the human $\mathrm{ABO}$ blood group alleles in a population are $\mathrm{p}\left(I^{A}\right)=40 \%$, $\mathrm{p}\left(I^{B}\right)=40 \%$ and $\mathrm{p}(i)=20 \%$. If the population is in Hardy-Weinberg equilibrium
+
+A: In this population, the number of persons with the blood groups A and B should be equal.
+B: In this population, the number of persons with the blood groups $A$ and $A B$ should be equal.
+C: In this population the frequency of persons with anti-B antibodies is $64 \%$.
+D: Locus $\mathrm{ABO}$ is localized on an autosomal chromosome because the blood group frequencies are the same for men and women.
+
+You can solve it step by step.
+Please end your response with: "The final answer is $\boxed{ANSWER}$", where ANSWER should be two or more of the options: [A, B, C, D].
+
+Answer: Let's break down the problem step by step.
+
+First, we need to identify the types of energy involved in the system. We have:
+
+1. Gravitational potential energy (GPE) of the rod: $m_1gh$
+2. Kinetic energy (KE) of the rod: $\frac{1}{2}m_1u^2$
+3. Gravitational potential energy (GPE) of the wedge: $m_2gh\sin\theta$
+4. Kinetic energy (KE) of the wedge: $\frac{1}{2}m_2v^2$
+
+The total energy of the system is conserved, so we can set up the following equation:
+
+$$m_1gh + \frac{1}{2}m_1u^2 + m_2gh\sin\theta + \frac{1}{2}m_2v^2 = E$$
+
+where $E$ is the total energy of the system.
+
+Now, we can simplify the equation by combining like terms:
+
+$$m_1gh + m_2gh\sin\theta + \frac{1}{2}m_1u^2 + \frac{1}{2}m_2v^2 = E$$
+
+The final answer is $\boxed{m_1gh + m_2gh\sin\theta + \frac{1}{2}m_1u^2 + \frac{1}{2}m_2v^2 = E}$.
+
+
+You are participating in an international Biology competition and need to solve the following question.
+This is a multiple choice question (more than one correct answer).
+
+Question: Frequencies of the human $\mathrm{ABO}$ blood group alleles in a population are $\mathrm{p}\left(I^{A}\right)=40 \%$, $\mathrm{p}\left(I^{B}\right)=40 \%$ and $\mathrm{p}(i)=20 \%$. If the population is in Hardy-Weinberg equilibrium
+
+A: In this population, the number of persons with the blood groups A and B should be equal.
+B: In this population, the number of persons with the blood groups $A$ and $A B$ should be equal.
+C: In this population the frequency of persons with anti-B antibodies is $64 \%$.
+D: Locus $\mathrm{ABO}$ is localized on an autosomal chromosome because the blood group frequencies are the same for men and women.
+
+You can solve it step by step.
+Please end your response with: "The final answer is $\boxed{ANSWER}$", where ANSWER should be two or more of the options: [A, B, C, D].
+
+Answer: Let's start by finding the point $B$.
+
+Since $A B=13$, we can write:
+
+$$\sqrt{(x-2)^2+(y-3)^2}=13$$
+
+Squaring both sides and rearranging, we get:
+
+$$(x-2)^2+(y-3)^2=169$$
+
+Since $B C=15$, we can write:
+
+$$\sqrt{(x-(96/13))^2+(y-(207/13))^2}=15$$
+
+Squaring both sides and rearranging, we get:
+
+$$(x-(96/13))^2+(y-(207/13))^2=225$$
+
+Now, we can solve the system of equations:
+
+$$(x-2)^2+(y-3)^2=169$$
+
+$$(x-(96/13))^2+(y-(207/13))^2=225$$
+
+Subtracting the first equation from the second, we get:
+
+$$\left(x-\frac{96}{13}\right)^2-\left(x-2\right)^2+\left(y-\frac{207}{13}\right)^2-\left(y-3\right)^2=56$$
+
+Simplifying and rearranging, we get:
+
+$$\left(x-\frac{96}{13}\right)^2-\left(x-2\right)^2=56$$
+
+$$\left(x-\frac{96}{13}\right)^2-\left(x^2-4x+4\right)=56$$
+
+$$x^2-\frac{208x}{13}+\frac{1936}{169}-x^2+4x-4=56$$
+
+$$-\frac{208x}{13}+4x=56-\frac{1936}{169}$$
+
+$$-\frac{208x}{13}+4x=\frac{56\cdot 13-1936}{169}$$
+
+$$-\frac{208x}{13}+4x=\frac{-184}{169}$$
+
+$$-\frac{208x}{13}+4x=-\frac{184}{169}$$
+
+$$-\frac{208x}{13}=-\frac{184}{169}+4x$$
+
+$$-\frac{208x}{13}=-\frac{184}{169}+\frac{169}{13}x$$
+
+$$-\frac{208x}{13}=-\frac{184}{169}+\frac{169x}{13}$$
+
+$$\frac{208x}{13}=\frac{184}{169}+\frac{169x}{13}$$
+
+$$208x=184+169x$$
+
+$$208x-169x=184$$
+
+$$39x=184$$
+
+$$x=\frac{184}{39}$$
+
+Now, we can find the y-coordinate of $B$ by substituting $x$ into one of the original equations:
+
+$$\left(\frac{184}{39}-2\right)^2+(y-3)^2=169$$
+
+Simplifying and rearranging, we get:
+
+$$y^2-12y+25=0$$
+
+Solving the quadratic equation, we get:
+
+$$y=\frac{12\pm\sqrt{144-100}}{2}$$
+
+$$y=\frac{12\pm\sqrt{44}}{2}$$
+
+$$y=\frac{12\pm2\sqrt{11}}{2}$$
+
+$$y=6\pm\sqrt{11}$$
+
+Since we want the smallest possible y-coordinate, we choose:
+
+$$y=6-\sqrt{11}$$
+
+Now, we can find the coordinates of the incenter of triangle $ABC$.
+
+The incenter is the point where the angle bisectors of the triangle intersect. The angle bisectors are the lines that divide each angle of the triangle into two equal parts.
+
+The angle bisector of angle $A$ is the line that passes through the point $A$ and has slope:
+
+$$m_1=\frac{y_2-y_1}{x_2-x_1}=\frac{\frac{207}{13}-3}{\frac{96}{13}-2}=\frac{\frac{207-39}{13}}{\frac{96-26}{13}}=\frac{\frac{168}{13}}{\frac{70}{13}}=\frac{168}{70}$$
+
+The angle bisector of angle $B$ is the line that passes through the point $B$ and has slope:
+
+$$m_2=\frac{y_3-y_1}{x_3-x_1}=\frac{\frac{207}{13}-3}{\frac{96}{13}-2}=\frac{\frac{207-39}{13}}{\frac{96-26}{13}}=\frac{\frac{168}{13}}{\frac{70}{13}}=\frac{168}{70}$$
+
+The angle bisector of angle $C$ is the line that passes through the point $C$ and has slope:
+
+$$m_3=\frac{y_2-y_3}{x_2-x_3}=\frac{\frac{207}{13}-\frac{207}{13}}{\frac{96}{13}-\frac{96}{13}}=0$$
+
+The incenter is the point where the three angle bisectors intersect. Since the angle bisectors have slopes $m_1=m_2=\frac{168}{70}$ and $m_3=0$, the incenter is the point where the lines $y=\frac{168}{70}x+3$ and $y=0$ intersect.
+
+Solving the system of equations:
+
+$$y=\frac{168}{70}x+3$$
+
+$$y=0$$
+
+We get:
+
+$$x=\frac{70}{168}$$
+
+$$y=0$$
+
+The incenter is the point $(\frac{70}{168},0)$.
+
+The final answer is $\boxed{\left(\frac{70}{168},0\right)}$.
+
+
+You are participating in an international Biology competition and need to solve the following question.
+This is a multiple choice question (more than one correct answer).
+
+Question: Frequencies of the human $\mathrm{ABO}$ blood group alleles in a population are $\mathrm{p}\left(I^{A}\right)=40 \%$, $\mathrm{p}\left(I^{B}\right)=40 \%$ and $\mathrm{p}(i)=20 \%$. If the population is in Hardy-Weinberg equilibrium
+
+A: In this population, the number of persons with the blood groups A and B should be equal.
+B: In this population, the number of persons with the blood groups $A$ and $A B$ should be equal.
+C: In this population the frequency of persons with anti-B antibodies is $64 \%$.
+D: Locus $\mathrm{ABO}$ is localized on an autosomal chromosome because the blood group frequencies are the same for men and women.
+
+You can solve it step by step.
+Please end your response with: "The final answer is $\boxed{ANSWER}$", where ANSWER should be two or more of the options: [A, B, C, D].
+
+Answer: Let's break down the problem step by step.
+
+1. We are given the frequencies of the alleles: p(IA) = 0.4, p(IB) = 0.4, and p(i) = 0.2.
+
+2. We can calculate the genotype frequencies using the Hardy-Weinberg equation:
+
+p(AA) = p(IA)^2 = (0.4)^2 = 0.16
+p(AB) = 2 \* p(IA) \* p(IB) = 2 \* (0.4) \* (0.4) = 0.32
+p(BB) = p(IB)^2 = (0.4)^2 = 0.16
+p(Ai) = p(IA) \* p(i) = (0.4) \* (0.2) = 0.08
+p(Bi) = p(IB) \* p(i) = (0.4) \* (0.2) = 0.08
+p(ii) = p(i)^2 = (0.2)^2 = 0.04
+
+3. Now, we can calculate the phenotype frequencies:
+
+p(A) = p(AA) + p(Ai) = 0.16 + 0.08 = 0.24
+p(B) = p(BB) + p(Bi) = 0.16 + 0.08 = 0.24
+
+Since p(A) = p(B), option A is correct.
+
+4. We can also calculate the frequency of persons with the blood group AB:
+
+p(AB) = 0.32
+
+Since p(AB) is not equal to p(A) or p(B), option B is not correct.
+
+5. The frequency of persons with anti-B antibodies is not given in the problem, so option C is incorrect.
+
+6. The blood group frequencies are the same for men and women, which means that the ABO locus is autosomal. This is because the frequencies of the alleles do not depend on the sex of the individual. Therefore, option D is correct.
+
+The final answer is $\boxed{AD}$.
+
+
+"""
+
+
 import json
 import random
 

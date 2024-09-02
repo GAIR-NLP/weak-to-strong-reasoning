@@ -1,4 +1,4 @@
-from .demonstrations import gsm8k_my_llama2_7b_icl_examples, gsm8k_my_gemma_2b_icl_examples, gsm8k_my_gemma_2b_icl_examples1, gsm8k_my_gemma_2b_icl_examples2, gsm8k_my_mistral_7b_icl_examples, math_my_llama2_7b_icl_examples, math_my_gemma_2b_icl_examples, math_my_mistral_7b_icl_examples
+from .demonstrations import gsm8k_my_llama2_7b_icl_examples, gsm8k_my_gemma_2b_icl_examples, gsm8k_my_gemma_2b_icl_examples1, gsm8k_my_gemma_2b_icl_examples2, gsm8k_my_mistral_7b_icl_examples, math_my_llama2_7b_icl_examples, math_my_gemma_2b_icl_examples, math_my_mistral_7b_icl_examples, olympic_llama3_8b_instruct_icl_examples
 
 Instruction = ""
 gsm8k_my_llama2_7b_icl_template: str = Instruction + gsm8k_my_llama2_7b_icl_examples
@@ -9,6 +9,7 @@ gsm8k_my_mistral_7b_icl_template: str = Instruction + gsm8k_my_mistral_7b_icl_ex
 math_my_llama2_7b_icl_template: str = Instruction + math_my_llama2_7b_icl_examples
 math_my_gemma_2b_icl_template: str = Instruction + math_my_gemma_2b_icl_examples
 math_my_mistral_7b_icl_template: str = Instruction + math_my_mistral_7b_icl_examples
+olympic_llama3_8b_instruct_icl_template: str = Instruction + olympic_llama3_8b_instruct_icl_examples
 
 templates = {
     "math-single": "",
@@ -20,4 +21,5 @@ templates = {
     'math_my_llama2_7b_icl': math_my_llama2_7b_icl_template,
     'math_my_gemma_2b_icl': math_my_gemma_2b_icl_template,
     'math_my_mistral_7b_icl': math_my_mistral_7b_icl_template,
+    'olympic_llama3_8b_instruct_icl': olympic_llama3_8b_instruct_icl_template
 }

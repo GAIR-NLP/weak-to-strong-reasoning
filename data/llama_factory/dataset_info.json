@@ -312,4 +312,62 @@
       "response": "output"
     }
   },
+  "olympic_llama3_8b_instruct_full_weak": {
+    "file_name": "data/llama_factory/olympicarena/train_olympic_llama3-8b-instruct_full_weak.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "olympic_llama3_8b_instruct_iter1_weak": {
+    "file_name": "data/llama_factory/olympicarena/train_olympic_llama3-8b-instruct_iter1_weak.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "olympic_llama3_8b_instruct_iter1_icl": {
+    "file_name": "data/llama_factory/olympicarena/train_olympic_llama3-8b-instruct_iter1_icl.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "olympic_llama3_8b_instruct_iter1_hybrid": {
+    "file_name": "data/llama_factory/olympicarena/train_olympic_llama3-8b-instruct_iter1_hybrid.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "olympic_llama3_8b_instruct_iter2_weak": {
+    "file_name": "data/llama_factory/olympicarena/train_olympic_llama3-8b-instruct_iter2_weak.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "olympic_llama3_8b_instruct_iter2_icl": {
+    "file_name": "data/llama_factory/olympicarena/train_olympic_llama3-8b-instruct_iter2_icl.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "olympic_llama3_8b_instruct_iter2_hybrid": {
+    "file_name": "data/llama_factory/olympicarena/train_olympic_llama3-8b-instruct_iter2_hybrid.json",
+    "columns": {
+      "prompt": "content",
+      "response": "output"
+    }
+  },
+  "olympic_llama3-8b-instruct_iter2_hybrid_paired": {
+    "file_name": "data/llama_factory/olympicarena/train_olympic_llama3-8b-instruct_iter2_hybrid_paired.json",
+    "ranking": true,
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  }
 }
