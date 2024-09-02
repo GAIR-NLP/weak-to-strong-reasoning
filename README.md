@@ -25,7 +25,7 @@ We split the training set into `train_1.jsonl` and `train_2.jsonl`:
 
 The original data is available in `data/raw`. Note that we augment the GSM8K training set with the data constructed by [Abel](https://github.com/GAIR-NLP/abel).
 
-For experiments closer to future scenarios on OlympicArena, we only use `train_2` without ground truths. In the implementation, we use the `test` split as the `train_2` set, and the `val` split as the `test` set. Please refer to [the `load_data` code]() for more details. 
+For experiments closer to future scenarios on OlympicArena, we only use `train_2` without ground truths. In the implementation, we use the `test` split as the `train_2` set, and the `val` split as the `test` set. Please refer to [the `load_data` code](https://github.com/GAIR-NLP/weak-to-strong-reasoning/blob/af3db281d11aa831f04d89e189c1c1f79cac2a68/src/inference_olympic.py#L14-L31) for more details. 
 
 #### Data Statistics
 
